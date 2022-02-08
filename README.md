@@ -13,15 +13,15 @@ have a method to allow pointers for any object in the hierarchy to be included i
 container and a print method to print the data associated with any contained object.
 
 
-(a) Draw the UML class diagram. 
+**(a)** Draw the UML class diagram. 
 
-(b) Develop the C++ class declarations for all classes; 
+**(b)** Develop the C++ class declarations for all classes; 
 
-(c) Develop the C++ class method definitions for all classes; 
+**(c)** Develop the C++ class method definitions for all classes; 
 
-(d) Develop a main driver program that exercises all the features of the application; and
+**(d)** Develop a main driver program that exercises all the features of the application; and
 
-(e) Debug, verify and validate your code.
+**(e)** Debug, verify and validate your code.
 
 ## Relations UML Diagram
 ![Relations UML](https://user-images.githubusercontent.com/73076876/152843581-52f22166-b6bd-4404-bd3c-ab804e9754bd.jpg)
